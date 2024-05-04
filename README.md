@@ -1,0 +1,2 @@
+# Kocer
+Kendi işim 
